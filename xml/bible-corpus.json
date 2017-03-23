@@ -1,0 +1,9 @@
+{
+	"id":"bible",
+	"title":"和合本聖經",
+        "bits":[7,8,6,7],
+	"rendClass":["kai","b","tag","l"],
+	"files":[
+		"bible.xml"
+	]
+}
